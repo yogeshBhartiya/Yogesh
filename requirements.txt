@@ -1,0 +1,4 @@
+Flask
+flask_sqlalchemy
+python-telegram-bot==20.0
+gunicorn
